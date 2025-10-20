@@ -15,6 +15,13 @@ Here's a preview of the main screens and the user flow between them.
 
 *User flow is detailed in the design source file, showing the interactive path between the login and signup pages.*
 
+### 🌐 Live Preview
+Experience the interactive prototype here 👉  
+🎨 [Click to Open Prototype in Figma](https://www.figma.com/proto/hQt9FJZqia19adGETR4LSK/Mobile-App-Login--Signup-Screen?node-id=0-1&t=iAbB3xWN7tFZxTbn-1)
+
+> 💡 Tip: Try tapping on the input fields and buttons to see the transitions!
+
+
 ## ✨ Features
 
 - **Two Main Screens:** A complete flow for both user Login and Sign Up.
@@ -78,6 +85,3 @@ This section details all the assets and software used to create this design.
 2.  **Install the font:** Make sure you have the [Inter font family](https://fonts.google.com/specimen/Inter) installed on your system.
 3. **Open the source file:** Open the [Login-Signup-UI.fig](https://www.figma.com/proto/hQt9FJZqia19adGETR4LSK/Mobile-App-Login--Signup-Screen?node-id=0-1&t=iAbB3xWN7tFZxTbn-1) file in Figma to inspect, modify, or export the assets.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
